@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 
-	"github.com/manutara/service/pkg/schema"
 	"github.com/manutara/service/pkg/service"
+	"github.com/manutara/service/schema"
 )
 
 func main() {

@@ -8,7 +8,7 @@ import (
 	logf "sigs.k8s.io/controller-runtime/pkg/runtime/log"
 
 	"github.com/manutara/manutara/client/api"
-	"github.com/manutara/service/pkg/schema"
+	"github.com/manutara/service/schema"
 )
 
 type Daemon struct {
